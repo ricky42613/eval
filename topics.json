@@ -115,12 +115,20 @@
     "path": "topics.backgroundlinking20.txt",
     "reader_class": "io.anserini.search.topicreader.BackgroundLinkingTopicReader"
   },
+  "beir-v1.0.0-arguana.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-arguana.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-arguana.test": {
     "path": "topics.beir-v1.0.0-arguana.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-arguana.test.wp": {
     "path": "topics.beir-v1.0.0-arguana.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-bioasq.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-bioasq.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-bioasq.test": {
@@ -131,12 +139,20 @@
     "path": "topics.beir-v1.0.0-bioasq.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-climate-fever.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-climate-fever.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-climate-fever.test": {
     "path": "topics.beir-v1.0.0-climate-fever.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-climate-fever.test.wp": {
     "path": "topics.beir-v1.0.0-climate-fever.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-cqadupstack-android.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-android.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-android.test": {
@@ -147,12 +163,20 @@
     "path": "topics.beir-v1.0.0-cqadupstack-android.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-cqadupstack-english.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-english.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-cqadupstack-english.test": {
     "path": "topics.beir-v1.0.0-cqadupstack-english.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-english.test.wp": {
     "path": "topics.beir-v1.0.0-cqadupstack-english.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-cqadupstack-gaming.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-gaming.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-gaming.test": {
@@ -163,12 +187,20 @@
     "path": "topics.beir-v1.0.0-cqadupstack-gaming.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-cqadupstack-gis.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-gis.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-cqadupstack-gis.test": {
     "path": "topics.beir-v1.0.0-cqadupstack-gis.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-gis.test.wp": {
     "path": "topics.beir-v1.0.0-cqadupstack-gis.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-cqadupstack-mathematica.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-mathematica.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-mathematica.test": {
@@ -179,12 +211,20 @@
     "path": "topics.beir-v1.0.0-cqadupstack-mathematica.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-cqadupstack-physics.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-physics.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-cqadupstack-physics.test": {
     "path": "topics.beir-v1.0.0-cqadupstack-physics.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-physics.test.wp": {
     "path": "topics.beir-v1.0.0-cqadupstack-physics.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-cqadupstack-programmers.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-programmers.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-programmers.test": {
@@ -195,12 +235,20 @@
     "path": "topics.beir-v1.0.0-cqadupstack-programmers.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-cqadupstack-stats.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-stats.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-cqadupstack-stats.test": {
     "path": "topics.beir-v1.0.0-cqadupstack-stats.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-stats.test.wp": {
     "path": "topics.beir-v1.0.0-cqadupstack-stats.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-cqadupstack-tex.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-tex.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-tex.test": {
@@ -211,12 +259,20 @@
     "path": "topics.beir-v1.0.0-cqadupstack-tex.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-cqadupstack-unix.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-unix.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-cqadupstack-unix.test": {
     "path": "topics.beir-v1.0.0-cqadupstack-unix.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-unix.test.wp": {
     "path": "topics.beir-v1.0.0-cqadupstack-unix.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-cqadupstack-webmasters.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-webmasters.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-webmasters.test": {
@@ -227,12 +283,20 @@
     "path": "topics.beir-v1.0.0-cqadupstack-webmasters.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-cqadupstack-wordpress.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-cqadupstack-wordpress.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-cqadupstack-wordpress.test": {
     "path": "topics.beir-v1.0.0-cqadupstack-wordpress.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-cqadupstack-wordpress.test.wp": {
     "path": "topics.beir-v1.0.0-cqadupstack-wordpress.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-dbpedia-entity.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-dbpedia-entity.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-dbpedia-entity.test": {
@@ -243,12 +307,20 @@
     "path": "topics.beir-v1.0.0-dbpedia-entity.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-fever.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-fever.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-fever.test": {
     "path": "topics.beir-v1.0.0-fever.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-fever.test.wp": {
     "path": "topics.beir-v1.0.0-fever.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-fiqa.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-fiqa.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-fiqa.test": {
@@ -259,12 +331,20 @@
     "path": "topics.beir-v1.0.0-fiqa.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-hotpotqa.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-hotpotqa.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-hotpotqa.test": {
     "path": "topics.beir-v1.0.0-hotpotqa.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-hotpotqa.test.wp": {
     "path": "topics.beir-v1.0.0-hotpotqa.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-nfcorpus.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-nfcorpus.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-nfcorpus.test": {
@@ -275,12 +355,20 @@
     "path": "topics.beir-v1.0.0-nfcorpus.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-nq.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-nq.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-nq.test": {
     "path": "topics.beir-v1.0.0-nq.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-nq.test.wp": {
     "path": "topics.beir-v1.0.0-nq.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-quora.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-quora.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-quora.test": {
@@ -291,12 +379,20 @@
     "path": "topics.beir-v1.0.0-quora.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-robust04.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-robust04.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-robust04.test": {
     "path": "topics.beir-v1.0.0-robust04.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-robust04.test.wp": {
     "path": "topics.beir-v1.0.0-robust04.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-scidocs.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-scidocs.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-scidocs.test": {
@@ -307,12 +403,20 @@
     "path": "topics.beir-v1.0.0-scidocs.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-scifact.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-scifact.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-scifact.test": {
     "path": "topics.beir-v1.0.0-scifact.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-scifact.test.wp": {
     "path": "topics.beir-v1.0.0-scifact.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-signal1m.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-signal1m.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-signal1m.test": {
@@ -323,6 +427,10 @@
     "path": "topics.beir-v1.0.0-signal1m.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-trec-covid.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-trec-covid.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-trec-covid.test": {
     "path": "topics.beir-v1.0.0-trec-covid.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
@@ -331,12 +439,20 @@
     "path": "topics.beir-v1.0.0-trec-covid.test.wp.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "beir-v1.0.0-trec-news.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-trec-news.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "beir-v1.0.0-trec-news.test": {
     "path": "topics.beir-v1.0.0-trec-news.test.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-trec-news.test.wp": {
     "path": "topics.beir-v1.0.0-trec-news.test.wp.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "beir-v1.0.0-webis-touche2020.slideon-q64-s100": {
+    "path": "topics.beir-v1.0.0-webis-touche2020.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "beir-v1.0.0-webis-touche2020.test": {
@@ -711,6 +827,10 @@
     "path": "topics.dl19-passage.cos-dpr-distil.jsonl.gz",
     "reader_class": "io.anserini.search.topicreader.JsonIntVectorTopicReader"
   },
+  "dl19-passage.slideon-q64-s100": {
+    "path": "topics.dl19-passage.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
   "dl19-passage.splade-pp-ed": {
     "path": "topics.dl19-passage.splade-pp-ed.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
@@ -750,6 +870,10 @@
   "dl20.cos-dpr-distil": {
     "path": "topics.dl20.cos-dpr-distil.jsonl.gz",
     "reader_class": "io.anserini.search.topicreader.JsonIntVectorTopicReader"
+  },
+  "dl20.slideon-q64-s100": {
+    "path": "topics.dl20.slideon-q64-s100.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
   "dl20.splade-pp-ed": {
     "path": "topics.dl20.splade-pp-ed.tsv.gz",
@@ -1509,6 +1633,10 @@
   },
   "msmarco-passage.dev-subset.distill-splade-max": {
     "path": "topics.msmarco-passage.dev-subset.distill-splade-max.tsv.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "msmarco-passage.dev-subset.slideon-q64-s100": {
+    "path": "topics.msmarco-passage.dev-subset.slideon-q64-s100.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
   "msmarco-passage.dev-subset.splade-pp-ed": {
